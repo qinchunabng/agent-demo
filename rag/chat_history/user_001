@@ -1,0 +1,52 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "我身高170cm，尺码推荐",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据您提供的身高170cm，结合参考资料（身高170-178cm，体重130-150斤建议尺码XL），若您体重在130-150斤范围内，推荐尺码为 **XL**。若体重明显低于或高于该范围，可能需要调整尺码。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "春天穿什么颜色的衣服？",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "春季穿衣颜色推荐以**清新、柔和、明亮**为主，契合季节的生机与温和气候。常见适合春季的颜色包括：\n\n- **浅色系**：如米白、浅灰、淡蓝、浅粉、薄荷绿，清爽干净，适合日常搭配；\n- **大地色系**：如卡其、燕麦色、浅棕，自然温和，易与牛仔或针织单品协调；\n- **低饱和亮色**：如鹅黄、珊瑚橘、天蓝，提亮肤色又不显突兀；\n- **经典百搭色**：如藏青、墨绿、深灰，适合外套或下装，稳重不失春意。\n\n> 小贴士：春季早晚温差大，可采用“内浅外深”或“同色系叠穿”，兼顾实用与美感。同时注意浅色衣物首次洗涤时加盐固色（参考纯棉、棉麻等材质养护建议）。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  }
+]
