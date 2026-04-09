@@ -1,0 +1,52 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "你好啊",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "你好！有什么可以帮你的吗？",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "春天应该穿啥",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "春天适合穿着轻薄、透气又具有一定保暖性的衣物，根据你提供的资料，推荐以下几类春季服装材质及款式：\n\n1. **纯棉**：如春季衬衫、T恤、休闲裤——吸汗透气、亲肤舒适，适合日常穿着。  \n2. **薄牛仔**：如牛仔裤、牛仔外套——耐磨有型，早晚微凉时可防风保暖。  \n3. **针织棉**：如针织衫、薄开衫——柔软贴身，适合叠穿或单穿应对温差。  \n4. **轻薄化纤**：如风衣、防晒衣——轻盈防风，适合多变天气或户外活动。\n\n建议根据早晚温差灵活搭配，例如“内搭纯棉T恤+薄开衫/牛仔外套”，既实用又时尚。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  }
+]
